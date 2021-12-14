@@ -22,3 +22,10 @@
     <li>Cats</li>
     <li>Food</li>
 </ul>
+
+### Three Dislikes:
+<ul>
+    <li>Heat</li>
+    <li>Bad Teachers</li>
+    <li>Bad Wifi</li>
+</ul>
