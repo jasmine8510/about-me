@@ -30,4 +30,4 @@
     <li>Bad Wifi</li>
 </ul>
 
-### Current status: Peppermint
+ Current status: Peppermint
