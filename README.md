@@ -18,6 +18,12 @@
 
 ---
 
+### Thoughts about SEP10:
+ Overall I enjoy this class. It feel more accomplished in this class than in any other class.  
+ The things I learn now I feel like will be very useful for me in the many years to come and I am thankful to be here. 
+ 
+---
+ 
 ### Three Likes:
 <ul>
     <li>Drawing</li>
