@@ -2,7 +2,7 @@
 
 ## Name: Jasmine Hidalgo
 ## Email: jasmineh8510@hstat.org
-## School: High School of Telecommunication Arts and Technology
+## School: _High School of Telecommunication Arts and Technology_
 
 ### My school schedule:
 <ol>
@@ -20,7 +20,8 @@
 
 ### Thoughts about SEP10:
  Overall I enjoy this class. It feel more accomplished in this class than in any other class.  
- The things I learn now I feel like will be very useful for me in the many years to come and I am thankful to be here. 
+ The things I learn now feel like they will be very useful for me in the many years to come and I am thankful to be here.  
+ One thing I have done in this class is [this](https://replit.com/@jasmine8510/avd-fundamentals#index.html)
  
 ---
  
